@@ -1,0 +1,10 @@
+pandas>=2.2
+numpy
+matplotlib
+openpyxl
+pytest
+nbformat
+nbclient
+ipykernel
+mcp>=2.0
+gspread

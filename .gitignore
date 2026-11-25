@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+# Generated outputs (rebuild with the commands in README)
+data/orders_clean.csv
+data/orders.db
+reports/*.png
+reports/*.xlsx
+pr_review/repo/
+# Secrets: never commit these
+.env
+*.env
+*service_account*.json
+*credentials*.json
+*key*.json
