@@ -1,0 +1,41 @@
+naive total (bug) = ₹5,815,538   net delivered = ₹5,209,430   overstated by 11.6%
+
+last 6 months revenue:
+ order_date
+2026-05    ₹269,151
+2026-06    ₹306,582
+2026-07    ₹280,713
+2026-08    ₹280,972
+2026-09    ₹218,889
+2026-10    ₹182,798
+Freq: M
+
+category mix %:
+ category
+Coffee        26.5
+Gift Boxes    24.6
+Tea           19.9
+Mugs          14.7
+Snacks        12.3
+Unknown        1.9
+
+city summary:
+            orders  customers    revenue    aov
+city                                          
+Bengaluru    1883        533  1340939.0  712.0
+Mumbai       1511        453  1125999.0  745.0
+Delhi        1412        411  1006665.0  713.0
+Hyderabad     780        260   541697.0  694.0
+Chennai       769        231   540459.0  703.0
+Pune          593        162   392246.0  661.0
+Kochi         380        132   261425.0  688.0
+
+repeat-customer rate %: 54.6
+
+cohort retention % (first 4 cohorts, months 0-6):
+ age          0     1     2     3     4     5     6
+cohort                                            
+2025-01  100.0  55.0  50.0  64.0  41.0  27.0  27.0
+2025-02  100.0  52.0  33.0  24.0  26.0  13.0  11.0
+2025-03  100.0  29.0  32.0  16.0  24.0  18.0   4.0
+2025-04  100.0  28.0  28.0  24.0  16.0  14.0  14.0

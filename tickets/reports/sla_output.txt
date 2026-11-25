@@ -1,0 +1,22 @@
+tickets=6000 open=248 priorities=['P1', 'P2', 'P3']
+
+resolution hours by priority:
+           tickets  median    p90  sla_h  breach_%
+priority                                         
+P1            426     3.7   10.5      4      46.5
+P2           1907    17.1   47.7     24      34.6
+P3           3419    36.8  105.5     72      21.4
+
+SLA breach % by when the ticket was opened:
+ window    09:00-21:00 IST  21:00-09:00 IST
+priority                                  
+P1                   33.2             58.5
+P2                   22.3             47.2
+P3                   10.8             32.1
+
+breach % by channel:
+ channel
+chat        21.3
+whatsapp    22.1
+phone       23.0
+email       38.4

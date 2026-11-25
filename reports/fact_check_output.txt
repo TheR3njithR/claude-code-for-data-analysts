@@ -1,0 +1,8 @@
+OK   october net revenue          memo=182798.0  computed=182798
+OK   change vs previous month %   memo=16.5  computed=16.5
+OK   Bengaluru revenue lakh       memo=13.4  computed=13.4
+OK   Mumbai AOV                   memo=745.0  computed=745.0
+FAIL Coffee share %               memo=28.5  computed=26.5
+OK   repeat-customer rate %       memo=54.6  computed=54.6
+
+1 claim(s) need fixing before this memo goes out
