@@ -1,0 +1,4 @@
+Trend          22 rows -> reports/sheets_pack/trend.csv
+Category mix    6 rows -> reports/sheets_pack/category_mix.csv
+Cities          7 rows -> reports/sheets_pack/cities.csv
+GOOGLE_SHEETS_KEY_FILE / SHEET_ID not set: pack written, nothing pushed (File > Import in Sheets, or set both and rerun)

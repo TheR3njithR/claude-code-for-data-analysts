@@ -1,0 +1,22 @@
+rows=8481 cols=8
+
+missing values per column:
+ order_id         0
+customer_id      0
+order_date       0
+city             0
+category       168
+qty              0
+unit_price       0
+status           0
+
+exact duplicate rows: 247
+duplicate order_id: 247
+
+city spellings: ['BLR', 'Bangalore', 'Bengaluru', 'Bombay', 'Chennai', 'Cochin', 'Delhi', 'Hyderabad', 'Kochi', 'Madras', 'Mumbai', 'New Delhi', 'Pune', 'bengaluru', 'delhi', 'mumbai']
+
+date formats: {'yyyy-mm-dd': 5933, 'dd/mm/yyyy': 2548}
+prices with ₹ or commas: 1631
+qty == 0: 84
+
+status: {'delivered': 7637, 'returned': 519, 'cancelled': 325}
