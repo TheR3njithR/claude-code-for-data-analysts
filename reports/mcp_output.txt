@@ -1,0 +1,6 @@
+tools: ['describe_orders', 'run_select']
+city	net_revenue
+Bengaluru	1340939.0
+Mumbai	1125999.0
+Delhi	1006665.0
+Refused: only a single SELECT statement is allowed.

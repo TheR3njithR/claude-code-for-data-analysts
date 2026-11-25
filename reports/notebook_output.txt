@@ -1,0 +1,30 @@
+---
+(8152, 7328)
+---
+order_date
+Tuesday      14.9
+Wednesday    14.6
+Saturday     14.4
+Sunday       14.2
+Friday       14.1
+Monday       13.9
+Thursday     13.8
+Name: revenue, dtype: float64
+---
+category
+Mugs          2.56
+Tea           2.53
+Unknown       2.53
+Coffee        2.51
+Gift Boxes    2.50
+Snacks        2.50
+Name: qty, dtype: float64
+---
+category    Coffee  Gift Boxes  Mugs  Snacks   Tea  Unknown
+unit_price                                                 
+<200            12           3    23    2094  1513       66
+200-500       1052          33   791      55   792       60
+500-1000       254         340    32       0     0       12
+1000+            0         195     0       0     0        1
+
+wrote notebooks/explore_orders.ipynb (executed)
